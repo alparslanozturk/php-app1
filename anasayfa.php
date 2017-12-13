@@ -1,0 +1,6 @@
+<?
+
+
+echo "ana sayfa";
+
+?>
